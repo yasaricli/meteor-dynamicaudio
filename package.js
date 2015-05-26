@@ -1,7 +1,7 @@
 Package.describe({
   name: 'yasaricli:dynamicaudio',
   version: '0.0.1',
-  summary: "An interface for writing audio with Firefox's new audio data API with a Flash fallback for older browsers.",
+  summary: "An interface for writing new audio data API with a Flash fallback for older browsers.",
   git: 'https://github.com/yasaricli/meteor-dynamicaudio.git',
   documentation: 'README.md'
 });
